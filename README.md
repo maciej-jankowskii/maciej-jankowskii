@@ -1,4 +1,14 @@
-### Hi there 👋
+## About me 👋
+
+```java 
+System.out.println("Hello GitHub!"); 
+```
+###  I’m currently learning Java  
+
+#### 📫 How to reach me:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maciej-jankowskii/)
+
+
 
 <!--
 **maciej-jankowskii/maciej-jankowskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
